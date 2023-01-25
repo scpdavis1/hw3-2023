@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, Verdana;
+    background: #000000;
+    color: #ffffff;
+    margin: 20px 20px 0 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 30px;
+    color:#0D0D0D;
+}
+
+p {
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: dashed 10px;
+}
+
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: solid 3px;
+}
+
+.introduction {
+    border-radius: 15px;
+    margin: 15px 0 0 0;
+    line-height: 2;
+}
+
+.red {
+    background: #ff0000;
+    text-align: right;
+    margin-left: 50px;
+    border-width: 0px 0px 2px 5px;
+}
+
+.blue {
+    background: #0000ff;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 2px 5px 0px 0px;
+}
+
+.blue h2 {
+    color: #c4c4c4;
+}
+
+.blue p {
+    color: #c4c4c4;
+}
+
+.yellow {
+    background: #ffff00;
+    text-align: right;
+    margin-left: 50px;
+    border-width: 0px 0px 2px 5px;
+}
+
+.yellow p {
+    color: #707070;
+}
+
+.green {
+    background: #008500;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 2px 5px 0px 0px;
+}
+
+footer {
+    border: solid 5px;
+    text-align: right;
+    border-color: #ffffff;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
+}
+
+footer p {
+    text-align: right 20px;
+    padding: 15px 15px 15px 0px;
+}
+
+
