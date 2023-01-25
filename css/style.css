@@ -91,7 +91,8 @@ footer {
 }
 
 footer p {
-    text-align: right 20px;
+    font-size: 20px;
+    text-align: right;
     padding: 15px 15px 15px 0px;
 }
 
